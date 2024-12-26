@@ -61,18 +61,22 @@ sample_data.to_csv('sample_data.csv', index=False)
 
 ### 1. Price vs. Year
 - Newer cars generally have higher prices, with a noticeable drop in value for cars older than 5 years.
+
 ![Price vs Year](images/average_price_by_year.PNG)
 
 ### 2. Price vs. Mileage
 - There is a negative correlation between price and mileage, indicating that cars with higher mileage are generally cheaper.
+
 ![Price vs Mileage](https://github.com/son9806/used_car_eda/raw/main/images/price_vs_mileage.PNG)
 
 ### 3. Accident History
 - Cars with accident history tend to have significantly lower prices.
+
 ![Accident History](https://github.com/son9806/used_car_eda/raw/main/images/price_vs_accident_status.PNG)
 
 ### 4. Vehicle Type
 - SUVs and sports cars are priced higher on average compared to compact and subcompact vehicles.
+
 ![Vehicle Type](https://github.com/son9806/used_car_eda/raw/main/images/price_by_vehicle_type.PNG)
 
 
