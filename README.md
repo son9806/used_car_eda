@@ -61,7 +61,7 @@ sample_data.to_csv('sample_data.csv', index=False)
 
 ### 1. Price vs. Year
 - Newer cars generally have higher prices, with a noticeable drop in value for cars older than 5 years.
-![Price vs Year](https://github.com/son9806/used_car_eda/raw/main/images/average_price_by_year.PNG)
+![Price vs Year](images/average_price_by_year.PNG)
 
 ### 2. Price vs. Mileage
 - There is a negative correlation between price and mileage, indicating that cars with higher mileage are generally cheaper.
