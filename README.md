@@ -79,7 +79,6 @@ sample_data.to_csv('sample_data.csv', index=False)
 
 ![Vehicle Type](https://github.com/son9806/used_car_eda/raw/main/images/price_by_vehicle_type.PNG)
 
-
 ## Repository Structure
 used_car_eda/
 ├── data/
