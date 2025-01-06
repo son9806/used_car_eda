@@ -79,6 +79,7 @@ sample_data.to_csv('sample_data.csv', index=False)
 
 ![Vehicle Type](https://github.com/son9806/used_car_eda/raw/main/images/price_by_vehicle_type.PNG)
 
+```markdown
 ## Repository Structure
 used_car_eda/
 ├── data/
@@ -90,3 +91,4 @@ used_car_eda/
 ├── notebooks/
 │   └── used_car_data_analysis.ipynb # Jupyter Notebook for EDA
 └── README.md                      # Project overview and details
+```
