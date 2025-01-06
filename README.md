@@ -55,7 +55,7 @@ sample_data = data.sample(frac=0.1, random_state=42)
 sample_data.to_csv('sample_data.csv', index=False)
 
 - **Original Dataset**: 188,533 rows, 13 features.
-- **Sample Dataset**: 18,853 rows, same features.``````
+- **Sample Dataset**: 18,853 rows, same features.```
 
 ## **Key Insights from EDA**
 
